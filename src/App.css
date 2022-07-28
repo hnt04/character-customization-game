@@ -51,12 +51,9 @@ body {
     border: 5px solid green;
     border-radius: 10px;
     display: inline-block;
-    position: sticky !important;
+    position: sticky;
     height: 25rem;
     top: calc(50% - 205px);
-    position: absolute;
-    top: 20px;
-    left: 30px;
     background-color: #fff
 }
 
